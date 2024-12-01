@@ -1,6 +1,6 @@
 [ACC 201-Workbook.xlsx](https://github.com/user-attachments/files/17969734/ACC.201-Workbook.xlsx)
 
-Here is a Accounting related assignment I had to do involving excel. I will explain in deatil what excel hacks I used to accelerate my assignement process:
+Here is a Accounting related assignment I had to do involving excel. I will explain in detail what excel hacks I used to accelerate my assignement process:
 
 **Step 1: Record Financial Data (Journal Entries)**
 1. Input Journal Entries (Accuracy and Completeness)
